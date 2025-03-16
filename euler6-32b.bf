@@ -53,7 +53,7 @@
   ]
 ]
 
-# By this point, we have:
+# By this point we have:
 # 0x04 = Sum of first 100 natural numbers
 # 0x08 = Square of Sum
 
