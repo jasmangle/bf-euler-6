@@ -4,7 +4,7 @@
 [             Completed as part of the Spring 2025 iteration of the            ]
 [           Esoteric Programming Languages DeCal Course at UC Berkeley         ]
 
-[                 Variable-length value printing algorithm from                ]
+[                 Variable length value printing algorithm from                ]
 [               https://esolangs(dot)org/wiki/brainfuck_algorithms             ]
 
 # First Part: Sum up the first 100 natural numbers
