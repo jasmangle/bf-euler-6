@@ -1,4 +1,4 @@
-# Euler Problem 6 in Brainfuck
+# [Euler Problem 6](https://projecteuler.net/problem=6) in Brainfuck
 
 Completed as part of the Esoteric Programming Languages DeCal at UC Berkeley.
 
